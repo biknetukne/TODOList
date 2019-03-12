@@ -1,12 +1,14 @@
-    TODOList is smart task list for everyday use.
+TODOList Site ( siski.webcam )
 
-    It is truly usable with great user experience.
+TODOList is smart task list for everyday use.
 
-    No matter who you are and what you do - you will be better organized!
+It is truly usable with great user experience.
 
-    At home, at work and in your free time - you will focus on really important things!
+No matter who you are and what you do - you will be better organized!
 
-    TODOList is powerful in its simplicity and convenience of use.
+At home, at work and in your free time - you will focus on really important things!
+
+TODOList is powerful in its simplicity and convenience of use.
 
 
 
